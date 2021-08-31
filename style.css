@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    
+}
+  
+  h1 {
+    font-size: 5rem;
+    color: #12a9db;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  
+  
+  .right {
+    font-family: sans-serif;
+    padding:0.7%;
+    font-weight: 900;
+    font-size: 1rem;
+    text-align: right;
+    text-shadow: 0 0 2px white;
+  }
+
+  .right a{
+    color:rgb(130, 230, 16);
+    text-decoration: none;
+  }
+  
+  .j{
+    background-image: url(Images/northern_flicker.jpg);
+  }
+  
+  .k{
+    background-image: url(Images/starling.JPG);
+  }
+  
+  .l{
+    background-image: url(Images/whooper.jpg);
+  }
+  
+  
+  .a{
+    background-image: url(Images/american-GoldFinch.jpg);
+  }
+  
+  .b{
+      background-image: url(Images/american-Robin.jpg);
+  }
+
+  .c{
+    background-image: url(Images/asian_koel.jpg);
+  }
+  
+  .d{
+    background-image: url(Images/atlanticPuffin.jpg);
+  }
+
+  .e{
+      background-image: url(Images/baldEagle.jpg);
+  }
+  
+  .f{
+      background-image: url(Images/blueJay.jpg);
+  }
+
+  .g{
+      background-image: url(Images/canary.jpg);
+  }
+
+  .h{
+      background-image: url(Images/flamingo.jpg);
+  }
+  
+  .i{
+      background-image: url(Images/indiobunting.jpg);
+  }
+
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #65a4b9;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .bird {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 2rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #f0550d;
+    text-shadow: 0 0 2px white;
+    border-radius: 15px;
+    display: inline-block;
+    width: 360px;
+    height: 350px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
+ 
+
+ .main{
+   margin: 5% 5%;
+   background-color: rgb(78, 76, 80);
+ }
+ 
+
